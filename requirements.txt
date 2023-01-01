@@ -1,0 +1,5 @@
+# conda create --name geovis python=3.7 
+# conda activate geovis
+pandas
+bokeh
+jupyter
